@@ -2,8 +2,9 @@
 Creating a landing page for a travel website using html & css. 
 
 ## Usage
-```html 
-   css
+```
+html 
+css
 ```
 
 ## Contributing
